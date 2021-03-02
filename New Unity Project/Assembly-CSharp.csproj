@@ -62,7 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Example.cs" />
+    <Compile Include="Assets\rbmovement.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Users/PC/Documents/GitHub/Zadanko/2019.4.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
