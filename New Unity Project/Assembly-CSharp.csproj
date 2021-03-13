@@ -62,7 +62,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\rbmovement.cs" />
+    <Compile Include="Assets\CameraFolow.cs" />
+    <Compile Include="Assets\PlayerMovement.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Users/PC/Documents/GitHub/Zadanko/2019.4.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
